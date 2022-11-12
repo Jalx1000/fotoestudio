@@ -4,6 +4,8 @@ mostrar trabajos
 REFERENCIAS : 
 https://es.wix.com/website-template/view/html/2728?originUrl=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fphotography&tpClick=view_button&esi=18403532-8fe4-412b-ab1a-80d7b3f62408
 
+https://es.wix.com/website-template/view/html/1787?originUrl=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fphotography%2F3&tpClick=view_button&esi=0b47052b-74bb-4f98-a5c4-3ff837753888
+
 secciones: 
 home, 
 about, 
