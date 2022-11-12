@@ -1,0 +1,13 @@
+En un estudio fotografico automatizar demandas llenando formularios
+mostrar trabajos 
+
+REFERENCIAS : 
+https://es.wix.com/website-template/view/html/2728?originUrl=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fphotography&tpClick=view_button&esi=18403532-8fe4-412b-ab1a-80d7b3f62408
+
+secciones: 
+home, 
+about, 
+servicios pagina con cuadros de cada sevicio(15, bodas, etc)
+trabajos (bodas, 15 años, familiares, de estudio, extras(carnets, ampliaciones y banners)), 
+Album de clientes 
+contacto (imagenes tipo link con (correo, instagram, chat en vivo-whatsapp, y numero telefonico-opcional)) 
